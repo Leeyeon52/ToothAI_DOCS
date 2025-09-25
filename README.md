@@ -40,8 +40,10 @@ GitHub 뷰어에서 바로 열람 가능합니다 📑
 
 | 구분 | 영상 |
 |---|---|
-| 🧑‍🦷 환자 앱 (Patient App) | [![Patient Demo]([https://img.youtube.com/vi/iyhG9KH39nU/0.jpg)](https://youtu.be/iyhG9KH39nU](https://github.com/user-attachments/assets/a1d07df8-a332-419c-8845-29b8ac3e900e)) |
-| 👨‍⚕️ 의사 웹 (Doctor Web) | [![Doctor Demo]([https://img.youtube.com/vi/Mhwuo9oW2wA/0.jpg)](https://youtu.be/Mhwuo9oW2wA](https://github.com/user-attachments/assets/405ba302-91a2-4183-a545-632ac56802eb)) |
+| 🧑‍🦷 환자 앱 (Patient App) | [![Patient Demo]([일반 사용자 화면 시연 영상
+https://github.com/user-attachments/assets/a1d07df8-a332-419c-8845-29b8ac3e900e)) |
+| 👨‍⚕️ 의사 웹 (Doctor Web) | [![Doctor Demo]([의사 화면 시연 영상
+https://github.com/user-attachments/assets/405ba302-91a2-4183-a545-632ac56802eb)) |
 
 > 썸네일을 클릭하면 YouTube에서 영상을 볼 수 있습니다.
 
