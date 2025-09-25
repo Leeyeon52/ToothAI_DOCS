@@ -49,6 +49,6 @@ GitHub 뷰어에서 바로 열람 가능합니다 📑
 
 ## 💻 원본 코드 링크
 
-- 📱 **Frontend (Flutter)**: [HoJun-7/25_07_21_Flutter](https://github.com/HoJun-7/25_07_21_Flutter)  
-- ⚙️ **Backend (Flask + DB)**: [HoJun-7/ToothAI_BACKEND](https://github.com/HoJun-7/ToothAI_BACKEND)  
+- 📱 **Frontend (Flutter)**: [HoJun-7/25_07_21_Flutter](https://github.com/HoJun-7/25_07_21_Flutter) (협업으로 진행된 저장소)
+- ⚙️ **Backend (Flask + DB)**: [HoJun-7/ToothAI_BACKEND](https://github.com/HoJun-7/ToothAI_BACKEND) (협업으로 진행된 저장소)
 - 🤖 **AI Models (YOLOv8/v11)**: [HoJun-7/toothai-ai](https://github.com/HoJun-7/toothai-ai)
